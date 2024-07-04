@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: hsl(0, 0%, 96%);
+}
+
+.container {
+    position: absolute;
+    width: 70%;
+    left: 15%;
+    top: 20%;
+    background-color: skyblue;
+    padding: 30px;
+    text-align: center;
+
+}
+h1 {
+    color: #350808;
+}
+
+p {
+    color:red;
+}
+img {
+    width: 50%;
+    float: right;
+}
